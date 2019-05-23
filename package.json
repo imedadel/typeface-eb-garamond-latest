@@ -1,0 +1,33 @@
+{
+	"name": "typeface-eb-garamond-latest",
+	"version": "1.0.0",
+	"description": "EB Garamond typeface",
+	"main": "index.css",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"files": [
+		"./*",
+		"files/*"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ImedAdel/typeface-eb-garamond-latest.git"
+	},
+	"keywords": [
+		"typeface",
+		"font",
+		"font",
+		"family",
+		"eb",
+		"garamond",
+		"typography",
+		"opentype"
+	],
+	"author": "Imed Adel <aadelimed@gmail.com> (https://imedadel.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ImedAdel/typeface-eb-garamond-latest/issues"
+	},
+	"homepage": "https://github.com/ImedAdel/typeface-eb-garamond-latest#readme"
+}
